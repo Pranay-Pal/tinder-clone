@@ -1,5 +1,5 @@
 import "./OPrfCard.css";
-export default function OPrfCard(props)
+export default function OPrfCard()
 {
     return
     (
